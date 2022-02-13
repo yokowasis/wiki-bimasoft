@@ -1,0 +1,4 @@
+---
+icon: "💻"
+---
+# Aplikasi Simulasi Mandiri
