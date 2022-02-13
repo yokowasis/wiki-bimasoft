@@ -3,11 +3,13 @@ order: 1
 author: Wasis Haryo Sasoko
 ---
 
-# Quick Start
+G# Simulasi Mandiri Offline
 
-## Daftar Isi
-1. [Auto Installer](#auto-installer)
-2. [VHD](#vhd)
+## Quick Start
+
+1. [Pilih Metode Instalasi](#pilih-metode-instalasi)
+    1. [Auto Installer](#auto-installer)
+    2. [VHD](#vhd)
 
 ## Pilih Metode Instalasi
 
