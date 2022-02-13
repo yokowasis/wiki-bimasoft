@@ -1,6 +1,7 @@
 ---
 order: 1
 author: Wasis Haryo Sasoko
+icon: ":computer:"
 ---
 
 # Simulasi Mandiri Offline
