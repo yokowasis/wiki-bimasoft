@@ -1,1 +1,1 @@
-# wiki-bimasoft
+# Manual Bimasoft
