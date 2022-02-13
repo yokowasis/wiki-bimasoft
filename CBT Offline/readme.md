@@ -5,6 +5,10 @@ author: Wasis Haryo Sasoko
 
 # Quick Start
 
+## Daftar Isi
+1. [Auto Installer](#auto-installer)
+2. [VHD](#vhd)
+
 ## Pilih Metode Instalasi
 
 ### Auto Installer
