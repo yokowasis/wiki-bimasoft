@@ -3,7 +3,7 @@ order: 1
 author: Wasis Haryo Sasoko
 ---
 
-G# Simulasi Mandiri Offline
+# Simulasi Mandiri Offline
 
 ## Quick Start
 
