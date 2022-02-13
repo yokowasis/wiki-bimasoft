@@ -1,5 +1,5 @@
 ---
-order: 1000
-icon: fire
+order: 800
+icon: ":gear:"
 ---
 # CBT Admin
