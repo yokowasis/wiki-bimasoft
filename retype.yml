@@ -4,8 +4,16 @@ url: https://yokowasis.github.io/wiki-bimasoft/
 branding:
   title: Wiki Bimasoft
   label: Manual
+  logo: images/logo_lightmode.png
+  logoDark : images/logo_darkmode.png
 links:
 - text: Client Area
   link: https://client.bimasoft.web.id/
 footer:
   copyright: "&copy; Copyright Bimasoft {{ year }}. All rights reserved."
+  links:
+    - text : Bimasoft
+      link : https://bimasoft.web.id/
+meta:
+  title: " | Manual Bimasoft"
+  
