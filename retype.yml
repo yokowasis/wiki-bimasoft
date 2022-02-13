@@ -1,0 +1,11 @@
+input: .
+output: build
+url: https://yokowasis.github.io/wiki-bimasoft/
+branding:
+  title: Wiki Bimasoft
+  label: Manual
+links:
+- text: Client Area
+  link: https://client.bimasoft.web.id/
+footer:
+  copyright: "&copy; Copyright Bimasoft {{ year }}. All rights reserved."
