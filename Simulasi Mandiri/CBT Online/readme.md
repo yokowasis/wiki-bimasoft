@@ -6,4 +6,6 @@ icon:  ":cloud:"
 
 # Cloud CBT Bimasoft
 
- 
+## Daftar Isi
+1. [Quick Start](./quick-start/)
+
