@@ -18,8 +18,8 @@ icon: note
 ## Pembuatan Soal
 1. Buka `Template Word`
 2. Pilih `Manage Account`
-3. Pilih `New`
-4. Ganti `Blog` dari `Choose your blog provider` menjadi `Wordpress`, Next.
+3. Pilih [!button variant="secondary" text="New"]
+4. Ganti `Blog` dari `Choose your blog provider` menjadi `Wordpress`, [!button variant="secondary" text="Next"]
 5. Isi sesuai data yg di catat pada point sebelumnya
 
 Nama Kolom          | Isian
@@ -29,12 +29,12 @@ Username            | username `wp-admin`
 Password            | password `wp-admin`
 Remember Password   | ✅
 
-Klik `OK`
+Klik [!button variant="secondary" text="OK"]
 
 *Konfirmasi Berhasil*
 [](../../images/konfirmas-berhasil.jpg)
 
-Klik `OK`, Klik `Close`
+Klik [!button variant="secondary" text="OK"], Klik [!button variant="secondary" text="Close"]
 
 6. Buat soal sesuai template yg disediakan. Ganti Kode Test (Judul Soal, Paling atas)
 7. Publish
@@ -61,14 +61,14 @@ Yang Harus Dikerjakan   | Jumlah soal wajib yg di kerjakan siswa    | 30
 Acak Soal / Option      | Apakah soal / option mau di acak ?        | 1 / 1
 
 3. Isi Kunci Jawaban dan Skor Pada Kolom di Sebelah Kanan, Semua No. Soal wajib memiliki kunci. Jika ada Soal yang kelebihan, maka hapus soal tersebut.
-4. Klik Tombol `Save` di sebelah Kanan
+4. Klik Tombol [!button variant="secondary" text="Save"] di sebelah Kanan
 
 ### Data Siswa
 1. Klik `Sheet Peserta`
 2. Isi Biodata
     - Server wajib huruf besar semua tanpa spasi
     - Sesi wajib angka
-3. Klik Tombol `Save` di sebelah kanan
+3. Klik Tombol [!button variant="secondary" text="Save"] di sebelah kanan
 
 ## Pelaksanaan Ujian
 1. Buka `URL Siswa`
