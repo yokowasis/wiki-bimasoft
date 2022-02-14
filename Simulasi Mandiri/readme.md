@@ -1,5 +1,6 @@
 ---
 icon: codespaces
+expanded: true
 ---
 # Aplikasi Simulasi Mandiri
 

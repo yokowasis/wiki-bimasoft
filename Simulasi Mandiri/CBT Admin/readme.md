@@ -1,6 +1,7 @@
 ---
 order: 800
 icon: gear
+expanded: true
 ---
 # CBT Admin
 
