@@ -7,5 +7,5 @@ icon:  rocket
 # Cloud CBT Bimasoft
 
 ## Daftar Isi
-1. [Quick Start](./quick-start/)
-
+- [Quick Start](./quick-start/)
+- [Data Siswa](./data-siswa/)
