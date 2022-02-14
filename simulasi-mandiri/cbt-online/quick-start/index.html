@@ -24,11 +24,11 @@
     
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=1.11.2.698167009415" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=1.11.2.698167269068" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=1.11.2.698167009415" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=1.11.2.698167269068" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=1.11.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=1.11.2.698167009415" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=1.11.2.698167269068" defer></script>
 </head>
     <body>
         <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -234,8 +234,12 @@
 <ol>
 <li>Buka <code v-pre>Template Word</code></li>
 <li>Pilih <code v-pre>Manage Account</code></li>
-<li>Pilih <code v-pre>New</code></li>
-<li>Ganti <code v-pre>Blog</code> dari <code v-pre>Choose your blog provider</code> menjadi <code v-pre>Wordpress</code>, Next.</li>
+<li>Pilih <button class="no-link inline-flex items-center font-medium cursor-pointer transition-colors duration-200 ease-out focus:outline-none bg-gray-500 hover:bg-gray-600 dark:bg-dark-400 dark:hover:bg-dark-450 text-white px-4 h-10 text-sm rounded-md">
+    <span>New</span>
+</button></li>
+<li>Ganti <code v-pre>Blog</code> dari <code v-pre>Choose your blog provider</code> menjadi <code v-pre>Wordpress</code>, <button class="no-link inline-flex items-center font-medium cursor-pointer transition-colors duration-200 ease-out focus:outline-none bg-gray-500 hover:bg-gray-600 dark:bg-dark-400 dark:hover:bg-dark-450 text-white px-4 h-10 text-sm rounded-md">
+    <span>Next</span>
+</button></li>
 <li>Isi sesuai data yg di catat pada point sebelumnya</li>
 </ol>
 <div class="table-wrapper scrollbar overflow-hidden">
@@ -266,10 +270,16 @@
 </tbody>
 </table>
 </div>
-<p>Klik <code v-pre>OK</code></p>
+<p>Klik <button class="no-link inline-flex items-center font-medium cursor-pointer transition-colors duration-200 ease-out focus:outline-none bg-gray-500 hover:bg-gray-600 dark:bg-dark-400 dark:hover:bg-dark-450 text-white px-4 h-10 text-sm rounded-md">
+    <span>OK</span>
+</button></p>
 <p><em>Konfirmasi Berhasil</em>
 <a href="../../../images/konfirmas-berhasil.jpg"></a></p>
-<p>Klik <code v-pre>OK</code>, Klik <code v-pre>Close</code></p>
+<p>Klik <button class="no-link inline-flex items-center font-medium cursor-pointer transition-colors duration-200 ease-out focus:outline-none bg-gray-500 hover:bg-gray-600 dark:bg-dark-400 dark:hover:bg-dark-450 text-white px-4 h-10 text-sm rounded-md">
+    <span>OK</span>
+</button>, Klik <button class="no-link inline-flex items-center font-medium cursor-pointer transition-colors duration-200 ease-out focus:outline-none bg-gray-500 hover:bg-gray-600 dark:bg-dark-400 dark:hover:bg-dark-450 text-white px-4 h-10 text-sm rounded-md">
+    <span>Close</span>
+</button></p>
 <ol start="6">
 <li>Buat soal sesuai template yg disediakan. Ganti Kode Test (Judul Soal, Paling atas)</li>
 <li>Publish</li>
@@ -360,7 +370,9 @@
 </div>
 <ol start="3">
 <li>Isi Kunci Jawaban dan Skor Pada Kolom di Sebelah Kanan, Semua No. Soal wajib memiliki kunci. Jika ada Soal yang kelebihan, maka hapus soal tersebut.</li>
-<li>Klik Tombol <code v-pre>Save</code> di sebelah Kanan</li>
+<li>Klik Tombol <button class="no-link inline-flex items-center font-medium cursor-pointer transition-colors duration-200 ease-out focus:outline-none bg-gray-500 hover:bg-gray-600 dark:bg-dark-400 dark:hover:bg-dark-450 text-white px-4 h-10 text-sm rounded-md">
+    <span>Save</span>
+</button> di sebelah Kanan</li>
 </ol>
 <doc-anchor-target id="data-siswa">
     <h3>
@@ -376,7 +388,9 @@
 <li>Sesi wajib angka</li>
 </ul>
 </li>
-<li>Klik Tombol <code v-pre>Save</code> di sebelah kanan</li>
+<li>Klik Tombol <button class="no-link inline-flex items-center font-medium cursor-pointer transition-colors duration-200 ease-out focus:outline-none bg-gray-500 hover:bg-gray-600 dark:bg-dark-400 dark:hover:bg-dark-450 text-white px-4 h-10 text-sm rounded-md">
+    <span>Save</span>
+</button> di sebelah kanan</li>
 </ol>
 <doc-anchor-target id="pelaksanaan-ujian">
     <h2>
