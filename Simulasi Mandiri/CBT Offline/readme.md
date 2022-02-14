@@ -1,7 +1,7 @@
 ---
 order: 900
 author: Wasis Haryo Sasoko
-icon: ":computer:"
+icon: codespaces
 ---
 
 # Simulasi Mandiri Offline

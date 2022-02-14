@@ -1,5 +1,5 @@
 ---
 order: 800
-icon: ":gear:"
+icon: gear
 ---
 # CBT Admin

@@ -1,7 +1,7 @@
 ---
 order: 1000
 author: Wasis Haryo Sasoko
-icon:  ":cloud:"
+icon:  rocket
 ---
 
 # Cloud CBT Bimasoft
