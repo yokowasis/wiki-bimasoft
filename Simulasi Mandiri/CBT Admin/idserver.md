@@ -1,5 +1,5 @@
 ---
-icon: ":page_facing_up:"
+icon: note
 ---
 # URL dan ID Server
 
