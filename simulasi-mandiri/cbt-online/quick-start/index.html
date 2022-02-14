@@ -24,11 +24,11 @@
     
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=1.11.2.698152511419" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=1.11.2.698167009415" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=1.11.2.698152511419" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=1.11.2.698167009415" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=1.11.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=1.11.2.698152511419" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=1.11.2.698167009415" defer></script>
 </head>
     <body>
         <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -207,16 +207,187 @@
     </div>
 </div>
 
+<doc-anchor-target id="persiapan-alat-dan-bahan">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#persiapan-alat-dan-bahan">#</doc-anchor-trigger>
+        <span>Persiapan Alat dan Bahan</span>
+    </h2>
+</doc-anchor-target>
 <ol>
 <li>Download Template Word dan Excel melalui <a href="https://bimasoft.web.id/gdrive/">Google Drive</a></li>
 <li>Catat Link - Link Penting
 <ul>
-<li>Link Word</li>
-<li>URL Server Excel</li>
+<li>URL Word</li>
+<li>URL Server Excel (Ambil di &#x60;wp-admin &gt; Online CDN &gt; backend)
+<a href="../../../images/backend.jpg"></a></li>
 <li>URL Siswa</li>
-<li>Username / Password wp-admin</li>
+<li>Username / Password <code v-pre>wp-admin</code></li>
 </ul>
 </li>
+</ol>
+<doc-anchor-target id="pembuatan-soal">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#pembuatan-soal">#</doc-anchor-trigger>
+        <span>Pembuatan Soal</span>
+    </h2>
+</doc-anchor-target>
+<ol>
+<li>Buka <code v-pre>Template Word</code></li>
+<li>Pilih <code v-pre>Manage Account</code></li>
+<li>Pilih <code v-pre>New</code></li>
+<li>Ganti <code v-pre>Blog</code> dari <code v-pre>Choose your blog provider</code> menjadi <code v-pre>Wordpress</code>, Next.</li>
+<li>Isi sesuai data yg di catat pada point sebelumnya</li>
+</ol>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Nama Kolom</th>
+<th>Isian</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Blog Post Url</td>
+<td><code v-pre>URL Word</code></td>
+</tr>
+<tr>
+<td>Username</td>
+<td>username <code v-pre>wp-admin</code></td>
+</tr>
+<tr>
+<td>Password</td>
+<td>password <code v-pre>wp-admin</code></td>
+</tr>
+<tr>
+<td>Remember Password</td>
+<td><span class="docs-emoji">&#x2705;</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Klik <code v-pre>OK</code></p>
+<p><em>Konfirmasi Berhasil</em>
+<a href="../../../images/konfirmas-berhasil.jpg"></a></p>
+<p>Klik <code v-pre>OK</code>, Klik <code v-pre>Close</code></p>
+<ol start="6">
+<li>Buat soal sesuai template yg disediakan. Ganti Kode Test (Judul Soal, Paling atas)</li>
+<li>Publish</li>
+</ol>
+<doc-anchor-target id="input-kunci-jawaban-dan-data-siswa">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#input-kunci-jawaban-dan-data-siswa">#</doc-anchor-trigger>
+        <span>Input Kunci Jawaban dan Data Siswa</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="kunci-jawaban">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#kunci-jawaban">#</doc-anchor-trigger>
+        <span>Kunci Jawaban</span>
+    </h3>
+</doc-anchor-target>
+<ol>
+<li>Buka <code v-pre>Template Excel</code></li>
+<li>Isi Sesuai Petunjuk di bawah ini</li>
+</ol>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Nama Kolom</th>
+<th>Isian</th>
+<th>Contoh</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Server</td>
+<td>URL Server Excel di atas</td>
+<td><a href="https://cbt-dst-nya.com/">https://cbt-dst-nya.com/</a></td>
+</tr>
+<tr>
+<td>Kode Test</td>
+<td>Kode Test yang diisi di <code v-pre>Word</code></td>
+<td>IPA</td>
+</tr>
+<tr>
+<td>Nama Test</td>
+<td>Bebas</td>
+<td>IPA</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>Bebas</td>
+<td>PAS</td>
+</tr>
+<tr>
+<td>Sub Test</td>
+<td>Bebas</td>
+<td>PAS</td>
+</tr>
+<tr>
+<td>Tanggal</td>
+<td>Tanggal Test</td>
+<td>12-02-2022</td>
+</tr>
+<tr>
+<td>Waktu Test</td>
+<td>Waktu Test</td>
+<td>07:30</td>
+</tr>
+<tr>
+<td>Alokasi</td>
+<td>Durasi Test (dalam menit)</td>
+<td>90</td>
+</tr>
+<tr>
+<td>Jumlah Soal</td>
+<td>Sesuai Jumlah soal di <code v-pre>Word</code></td>
+<td>30</td>
+</tr>
+<tr>
+<td>Yang Harus Dikerjakan</td>
+<td>Jumlah soal wajib yg di kerjakan siswa</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Acak Soal / Option</td>
+<td>Apakah soal / option mau di acak ?</td>
+<td>1 / 1</td>
+</tr>
+</tbody>
+</table>
+</div>
+<ol start="3">
+<li>Isi Kunci Jawaban dan Skor Pada Kolom di Sebelah Kanan, Semua No. Soal wajib memiliki kunci. Jika ada Soal yang kelebihan, maka hapus soal tersebut.</li>
+<li>Klik Tombol <code v-pre>Save</code> di sebelah Kanan</li>
+</ol>
+<doc-anchor-target id="data-siswa">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#data-siswa">#</doc-anchor-trigger>
+        <span>Data Siswa</span>
+    </h3>
+</doc-anchor-target>
+<ol>
+<li>Klik <code v-pre>Sheet Peserta</code></li>
+<li>Isi Biodata
+<ul>
+<li>Server wajib huruf besar semua tanpa spasi</li>
+<li>Sesi wajib angka</li>
+</ul>
+</li>
+<li>Klik Tombol <code v-pre>Save</code> di sebelah kanan</li>
+</ol>
+<doc-anchor-target id="pelaksanaan-ujian">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#pelaksanaan-ujian">#</doc-anchor-trigger>
+        <span>Pelaksanaan Ujian</span>
+    </h2>
+</doc-anchor-target>
+<ol>
+<li>Buka <code v-pre>URL Siswa</code></li>
+<li>Pilih Mapel</li>
+<li>Gunakan <code v-pre>username</code> dan <code v-pre>password</code> yang di input pada <code v-pre>Template Excel</code> di <code v-pre>Sheet Peserta</code> pada langkah <doc-anchor-trigger to="#data-siswa">sebelumnya</doc-anchor-trigger></li>
 </ol>
 
 
