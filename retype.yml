@@ -9,9 +9,11 @@ branding:
 links:
 - text: Client Area
   link: https://client.bimasoft.web.id/
+  target: blank
 - text: Telegram
   link: https://t.me/bimasoftwebid
   icon: "https://img.icons8.com/color/48/000000/telegram-app--v1.png"
+  target: blank
 footer:
   copyright: "&copy; Copyright Bimasoft {{ year }}. All rights reserved."
   links:
