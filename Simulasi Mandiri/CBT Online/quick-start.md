@@ -11,7 +11,7 @@ icon: note
 2. Catat Link - Link Penting
     - URL Word
     - URL Server Excel (Ambil di `wp-admin > Online CDN > backend)
-    [](../../images/backend.jpg)
+    ![](../../images/backend.jpg)
     - URL Siswa
     - Username / Password `wp-admin`
 
@@ -32,7 +32,7 @@ Remember Password   | ✅
 Klik [!button variant="secondary" text="OK"]
 
 *Konfirmasi Berhasil*
-[](../../images/konfirmas-berhasil.jpg)
+![](../../images/konfirmas-berhasil.jpg)
 
 Klik [!button variant="secondary" text="OK"], Klik [!button variant="secondary" text="Close"]
 
