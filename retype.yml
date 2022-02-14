@@ -11,7 +11,7 @@ links:
   link: https://client.bimasoft.web.id/
 - text: Telegram
   link: https://t.me/bimasoftwebid
-  icon: "https://img.icons8.com/material-outlined/24/000000/telegram-app.png"
+  icon: "https://img.icons8.com/color/48/000000/telegram-app--v1.png"
 footer:
   copyright: "&copy; Copyright Bimasoft {{ year }}. All rights reserved."
   links:
