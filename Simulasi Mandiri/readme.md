@@ -1,5 +1,5 @@
 ---
-icon: ":desktop_computer:"
+icon: codespaces
 ---
 # Aplikasi Simulasi Mandiri
 
