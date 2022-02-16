@@ -12,4 +12,5 @@ Untuk soal selain pilihan ganda bisa dibuat melalui tombol macro yang ada di bag
 
 Soal | Kunci | Hasil
 -----|-------|------
-a | b | c
+![](../images/pilgan.jpg) | ![](../images/kunci-pilgan.jpg) | ![](../images/soal-pilgan.jpg)
+
