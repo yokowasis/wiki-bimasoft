@@ -2,7 +2,7 @@
 icon: note
 ---
 
-# Macam - macam bentuk soal
+# Jenis Soal
 
 Untuk soal selain pilihan ganda bisa dibuat melalui tombol macro yang ada di bagian *Quick Access Toolbar* (kiri atas) pada *Microsoft Word* 
 
