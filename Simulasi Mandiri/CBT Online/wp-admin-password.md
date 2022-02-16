@@ -2,7 +2,7 @@
 icon: note
 ---
 
-## Mengganti Password wp-admin
+# Mengganti Password wp-admin
 
 Password bisa diganti melalui 2 tempat
 
