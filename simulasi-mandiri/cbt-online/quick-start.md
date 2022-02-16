@@ -11,7 +11,7 @@ icon: note
 2. Catat Link - Link Penting
     - URL Word 
     ![](../../images/url-word.jpg)
-    - URL Server Excel (Ambil di `wp-admin > Online CDN > backend)
+    - URL Server Excel (Ambil di `wp-admin > Online CDN > backend`)
     ![](../../images/backend.jpg)
     - URL Siswa
     - Username / Password `wp-admin`
