@@ -79,4 +79,4 @@ Acak Soal / Option      | Apakah soal / option mau di acak ?        | 1 / 1
 ## Penilaian / Hasil
 1. Buka `Template Excel`
 2. Klik `Sheet Hasil`
-3. Klik Refresh Hasil Kiri Atas ![](https://cdn.onlinewebfonts.com/svg/download_433215.svg)
+3. Klik Refresh Hasil Kiri Atas 🔃
