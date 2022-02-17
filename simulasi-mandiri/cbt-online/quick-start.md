@@ -76,3 +76,7 @@ Acak Soal / Option      | Apakah soal / option mau di acak ?        | 1 / 1
 2. Pilih Mapel
 3. Gunakan `username` dan `password` yang di input pada `Template Excel` di `Sheet Peserta` pada langkah [sebelumnya](#data-siswa)
 
+## Penilaian / Hasil
+1. Buka `Template Excel`
+2. Klik `Sheet Hasil`
+3. Klik Refresh Hasil Kiri Atas ![](https://cdn.onlinewebfonts.com/svg/download_433215.svg)
