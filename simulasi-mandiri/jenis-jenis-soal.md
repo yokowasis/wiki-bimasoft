@@ -59,7 +59,7 @@ Soal | Kunci | Hasil
 -----|-------|------
 [![](../images/pilgan-kolom.jpg)](../images/pilgan-kolom.jpg) | [![](../images/kunci-pilgan-kolom.jpg)](../images/kunci-pilgan-kolom.jpg) | [![](../images/soal-pilgan-berkolom.jpg)](../images/soal-pilgan-berkolom.jpg)
 
-## Pilihan Ganda Berkolom
+## Setuju dan Tidak Setuju
 
 Soal | Kunci | Hasil
 -----|-------|------
