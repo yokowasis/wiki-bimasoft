@@ -4,9 +4,12 @@ icon: note
 
 # Jenis Soal
 
-Untuk soal selain pilihan ganda bisa dibuat melalui tombol macro yang ada di bagian *Quick Access Toolbar* (kiri atas) pada *Microsoft Word* 
+Untuk soal selain pilihan ganda bisa dibuat melalui tombol macro yang ada di bagian *Quick Access Toolbar* (kiri atas) pada *Microsoft Word*. 
 
 [![](../images/quick-access-toolbar.jpg)](../images/quick-access-toolbar.jpg)
+
+!!!warning Kunci Jawaban
+Sebelum di save, semua  kunci jawaban di sort (berdasarkan nomor)  terlebih dahulu.
 
 ## Soal Pilihan Ganda
 
