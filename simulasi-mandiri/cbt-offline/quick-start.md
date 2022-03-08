@@ -7,6 +7,8 @@ icon:  note
 # Quick Start
 
 ## Pilih Metode Instalasi
+1. [Auto Installer](#auto-installer)
+2. [VHD](#vhd)
 
 ### Auto Installer
 
