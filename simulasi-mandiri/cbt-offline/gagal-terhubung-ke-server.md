@@ -14,7 +14,7 @@ http://192.168.0.199/ubk  : ❌ SALAH (tidak ada garis miring di akhir)
 Pastikan ketika URL yang diinput di Template Excel ketika di buka di chrome muncul halaman Login Siswa. 
 
 **3. Versi Template Excel dan versi Aplikasi tidak sesuai**   
-Aplikasi dan template Excel minimal Versi #12
+Versi Tema Aplikasi dan Versi Template Excel minimal Versi #12
 
 **4. Belum Reset DATABASE.**    
 Ketika melakukan update / install tema, belum melakukan reset database. Reset database dilakukan dengan cara (*Kerjakan Sesuai Urutan*): WP-Admin -> Pengaturan Test -> Reset Database = Tidak -> Save -> Reset Database = Ya -> Save -> Reset Database = Tidak -> Save. 
