@@ -6,7 +6,7 @@ icon: note
 Ada beberapa penyebab pesan Gagal Terhubung ke Server :
 
 **1. Salah penulisan URL**  
-Pastikan url yang ditulis adalah benar  
+Pastikan url yang ditulis di Excel adalah benar  
 http://192.168.0.199/ubk/ : ✅ BENAR  
 http://192.168.0.199/ubk  : ❌ SALAH (tidak ada garis miring di akhir)  
 
