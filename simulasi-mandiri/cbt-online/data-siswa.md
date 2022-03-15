@@ -5,3 +5,7 @@ icon: note
 ---
 
 # Data Siswa
+
+Data siswa bisa di akses melalui wp-admin > database test > siswa
+
+[!embed](/video/database-siswa.mp4)
