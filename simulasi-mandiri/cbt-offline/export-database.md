@@ -20,4 +20,4 @@ Auto installer : http://localhost/phpmyadmin
 --------------------
 
 
-[!embed](/video/imulasi-mandiri/offline/export-database.mp4)
+[!embed](/video/simulasi-mandiri/offline/export-database.mp4)
