@@ -11,6 +11,7 @@ Untuk soal selain pilihan ganda bisa dibuat melalui tombol macro yang ada di bag
 !!!warning Kunci Jawaban
 Sebelum di save, semua  kunci jawaban di sort (berdasarkan nomor)  terlebih dahulu.
 !!!
+[!embed](../video/sortir-kunci.mp4)
 
 ## Soal Pilihan Ganda
 
