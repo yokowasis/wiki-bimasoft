@@ -1,6 +1,7 @@
 ---
 icon: note
 ---
+# Beberapa Mapel dalam Satu Waktu
 
 Bimasoft simulasi Mandiri support beberapa mapel / jurusan / paket soal dalam satu waktu.   
     
