@@ -73,3 +73,10 @@ Soal | Kunci | Hasil
 -----|-------|------
 [![](../images/survey.jpg)](../images/survey.jpg) | [![](../images/kunci-survey.jpg)](../images/kunci-survey.jpg) | [![](../images/soal-survey.jpg)](../images/soal-survey.jpg)
 
+
+## Soal Upload
+
+Soal | Kunci | Hasil
+-----|-------|------
+[![](../images/soal-upload.jpg)](../images/soal-upload.jpg) | [![](../images/kunci-upload.jpg)](../images/kunci-upload.jpg) | [![](../images/hasil-upload.jpg)](../images/hasil-upload.jpg)
+
