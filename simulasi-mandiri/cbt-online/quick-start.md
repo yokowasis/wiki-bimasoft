@@ -8,13 +8,10 @@ icon: note
 
 ## Persiapan Alat dan Bahan
 1. Download Template Word dan Excel melalui [Google Drive](https://bimasoft.web.id/gdrive/)
-2. Catat Link - Link Penting
+2. Catat Link - Link Penting Yang ada di Dashboard Webadmin
     - URL Word 
-    ![](../../images/url-word.jpg)
-    - URL Server Excel (Ambil di `wp-admin > Online CDN > backend`)
-    ![](../../images/backend.jpg)
-    - URL Siswa
-    - Username / Password `wp-admin`
+    - Username / Password Word
+    - URL Server Excel
 
 ## Pembuatan Soal
 1. Buka `Template Word`
@@ -26,8 +23,8 @@ icon: note
 Nama Kolom          | Isian
 --------------------|------------------------
 Blog Post Url       | `URL Word`
-Username            | username `wp-admin`
-Password            | password `wp-admin`
+Username            | Username Word
+Password            | Password Word
 Remember Password   | ✅
 
 Klik [!button variant="secondary" text="OK"]
