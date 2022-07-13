@@ -5,6 +5,7 @@ Untuk Daftar Isi, cek menu di sebelah kiri (Untuk Mobile 📱, cek hamburger men
 ## Quick Start
 [!ref Cloud CBT Online](./simulasi-mandiri/cbt-online/quick-start.md)
 [!ref CBT Offline](./simulasi-mandiri/cbt-offline/quick-start.md)
+[!ref Manajemen Mandiri](./manajemen-mandiri/quick-start.md)
 
 ## Link Penting
 1. Google Drive [https://bimasoft.web.id/gdrive](https://bimasoft.web.id/gdrive)
