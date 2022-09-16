@@ -6,6 +6,13 @@ icon: note
 
 # Quick Start
 
+## Pengaturan Test Awal
+1. Login ke halaman webadmin
+2. Masuk ke halaman Pengaturan test
+    - Ganti Password
+    - Isi nama sekolah dan logo, untuk logo bisa di upload ke [snipboard.io](https://snipboard.io) dan masukkan link nya ke kotak yg disediakan.
+    - Isi pengaturan test yg lain sesuai kebutuhan
+
 ## Persiapan Alat dan Bahan
 1. Download Template Word dan Excel melalui [Google Drive](https://bimasoft.web.id/gdrive/)
 2. Catat Link - Link Penting Yang ada di Dashboard Webadmin
