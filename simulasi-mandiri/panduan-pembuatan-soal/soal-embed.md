@@ -1,6 +1,8 @@
 ---
 icon: note
 ---
+# Include Content Luar / Soal Embed
+
 
 Bimasoft support memasukkan element dari tempat / website lain seperti [Youtube](https://youtube.com), [Soundcloud](https://soundcloud.com), [Google Drive](https://drive.google.com), [Google Form](https://form.google.com), dll.
 
