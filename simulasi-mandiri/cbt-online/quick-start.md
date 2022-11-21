@@ -15,7 +15,7 @@ icon: note
 
 ## Persiapan Alat dan Bahan
 1. Download Template Word dan Excel melalui [Google Drive](https://bimasoft.web.id/gdrive/)
-![Google Drive](../../images/gdrive.png);
+![Google Drive](../../images/gdrive.png)
 
 2. Catat Link - Link Penting Yang ada di Dashboard Webadmin
     - URL Word 
