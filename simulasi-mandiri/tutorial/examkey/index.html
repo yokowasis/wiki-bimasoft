@@ -8,24 +8,27 @@
     <!-- Primary Meta Tags -->
     <title>Examkey | Manual Bimasoft</title>
     <meta name="title" content="Examkey | Manual Bimasoft">
+    <meta name="description" content="Examkey berfungsi untuk mencegah siswa membuka halaman ujian menggunakan browser biasa." />
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://docs.bimasoft.web.id/simulasi-mandiri/tutorial/examkey/">
     <meta property="og:title" content="Examkey | Manual Bimasoft">
+    <meta property="og:description" content="Examkey berfungsi untuk mencegah siswa membuka halaman ujian menggunakan browser biasa.">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://docs.bimasoft.web.id/simulasi-mandiri/tutorial/examkey/">
     <meta property="twitter:title" content="Examkey | Manual Bimasoft">
+    <meta property="twitter:description" content="Examkey berfungsi untuk mencegah siswa membuka halaman ujian menggunakan browser biasa.">
     
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=1.11.2.722768990784" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=1.11.2.722769195308" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=1.11.2.722768990784" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=1.11.2.722769195308" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=1.11.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=1.11.2.722768990784" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=1.11.2.722769195308" defer></script>
 </head>
     <body>
         <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -192,6 +195,20 @@
         <span>Examkey</span>
     </h1>
 </doc-anchor-target>
+<p>Examkey berfungsi untuk mencegah siswa membuka halaman ujian menggunakan browser biasa. Apabila examkey diisi maka halaman ujian harus dibuka menggunakan examkey tersebut. Examkey di setting melalui wp/web-admin &gt; pengaturan test &gt; examkey</p>
+<p>contoh :</p>
+<p>URL Ujian : <a href="https://cbt.my.id/">https://cbt.my.id/</a>
+Examkey : 123123</p>
+<p>maka untuk halaman ujian bisa terbuka, jika dan hanya jika url yg diinput ke dalam browser adalah <a href="https://cbt.my.id/?examkey=123123">https://cbt.my.id/?examkey=123123</a>.</p>
+<p>Examkey ini harus di jaga kerahasiannya, bisa dengan operator membuka url + examkey di chrome di laptop sekolah dan membuat tampilan menjadi full screen. Atau memasukkan url + examkey ke dalam settingan aplikasi Exam Client PC seperti Safe Exambrowser.</p>
+<p>Examkey tidak untuk di bagi diinput ke laptop siswa, karena siswa bisa dengan mudah mengecek examkey dengan membuka history.</p>
+<doc-anchor-target id="examclient-android-bimasoft">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#examclient-android-bimasoft">#</doc-anchor-trigger>
+        <span>ExamClient Android Bimasoft</span>
+    </h2>
+</doc-anchor-target>
+<p>ExamClient Android buatan Bimasoft, di dalamnya sudah ter-inject examkey secara otomatis. Jadi tidak perlu memasukkan / mensetting examkey lagi ke dalam APK Exam Client Bimasoft.</p>
 
 
 
