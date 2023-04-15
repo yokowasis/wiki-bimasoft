@@ -37,6 +37,9 @@ Soal | Kunci | Hasil
 -----|-------|------
 [![](/images/pilgan-kompleks.jpg)](/images/pilgan-kompleks.jpg) | [![](/images/kunci-pilgan-kompleks.jpg)](/images/kunci-pilgan-kompleks.jpg) | [![](/images/soal-pilgan-kompleks.jpg)](/images/soal-pilgan-kompleks.jpg)
 
+### Video Tutorial
+[!embed](https://www.youtube.com/watch?v=WTAJCH8czq4)
+
 ## Soal Isian / Uraian / Essay
 
 Soal | Kunci | Hasil
