@@ -2,7 +2,7 @@
 icon: codespaces
 author: Wasis Haryo Sasoko
 ---
-# Troubleshooting
+# Tombol Publish Disabled
 
 ## Tombol Publish Berwarna Abu - Abu, Manage Account tidak bisa di klik
 
@@ -22,7 +22,7 @@ Install ulang Microsoft Offce tanpa internet, dan Disable Updatenya.
 
 ### Office 365
 
-1. Download Link [Office 365](../downloads/Office365.zip)
+1. Download Link [Office 365](/downloads/Office365.zip)
 2. Extract
 3. Jalankan setup.exe (*wajib connect internet*)
 
