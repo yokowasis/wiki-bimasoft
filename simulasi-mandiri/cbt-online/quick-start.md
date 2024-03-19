@@ -77,6 +77,13 @@ Acak Soal / Option      | Apakah soal / option mau di acak ?        | 1 / 1
     - Sesi wajib angka
 3. Klik Tombol [!button variant="secondary" text="Save"] di sebelah kanan
 
+## Mengimport Soal Yang Sudah Di Publish
+1. Masuk ke dalam *webadmin*
+2. Klik *Database Test*
+3. Klik tombol test soal di deretan tombol yang ada di paling kanan
+
+![import](/images/importsoal.png)
+
 ## Pelaksanaan Ujian
 1. Buka `URL Siswa`
 2. Pilih Mapel
