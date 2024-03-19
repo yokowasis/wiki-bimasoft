@@ -1,5 +1,5 @@
 ---
-icon: codespaces
+icon: note
 author: Wasis Haryo Sasoko
 ---
 # Tombol Publish Disabled
