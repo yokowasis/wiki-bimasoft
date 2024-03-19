@@ -16,4 +16,13 @@ Ini disebabkan karena versi office build version 2402. Versi office build versio
 ### Solusi
 Bisa melakukan downgrade ke versi di bawah 2402 atau melakukan update ke versi di atas 2402.
 
+### Office 2019 dan 2016
+Install ulang Microsoft Offce tanpa internet, dan Disable Updatenya.
+![Version 2402](/images/disableupdate.png)
+
+### Office 365
+
+1. Download Link [Office 365](../downloads/Office365.zip)
+2. Extract
+3. Jalankan setup.exe
 
