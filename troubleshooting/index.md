@@ -24,5 +24,5 @@ Install ulang Microsoft Offce tanpa internet, dan Disable Updatenya.
 
 1. Download Link [Office 365](../downloads/Office365.zip)
 2. Extract
-3. Jalankan setup.exe
+3. Jalankan setup.exe (*wajib connect internet*)
 
