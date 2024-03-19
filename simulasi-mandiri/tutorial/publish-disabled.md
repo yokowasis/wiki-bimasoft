@@ -17,7 +17,7 @@ Ini disebabkan karena versi office build version 2402. Versi office build versio
 Bisa melakukan downgrade ke versi di bawah 2402 atau melakukan update ke versi di atas 2402.
 
 ### Office 2019 dan 2016
-Install ulang Microsoft Offce tanpa internet, dan Disable Updatenya.
+Install ulang Microsoft Office tanpa internet, dan Disable Updatenya.
 ![Version 2402](/images/disableupdate.png)
 
 ### Office 365
