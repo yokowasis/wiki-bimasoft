@@ -34,14 +34,18 @@ Soal | Kunci | Hasil
 
 ## Soal Pilihan Ganda Kompleks
 
+### Video Tutorial
+[!embed](https://www.youtube.com/watch?v=WTAJCH8czq4)
+
 Soal | Kunci | Hasil
 -----|-------|------
 [![](/images/pilgan-kompleks.jpg)](/images/pilgan-kompleks.jpg) | [![](/images/kunci-pilgan-kompleks.jpg)](/images/kunci-pilgan-kompleks.jpg) | [![](/images/soal-pilgan-kompleks.jpg)](/images/soal-pilgan-kompleks.jpg)
 
-### Video Tutorial
-[!embed](https://www.youtube.com/watch?v=WTAJCH8czq4)
-
 ## Soal Isian / Uraian / Essay
+
+### Video Tutorial
+
+[!embed](https://www.youtube.com/watch?v=xDBQMvbe514)
 
 Soal | Kunci | Hasil
 -----|-------|------
