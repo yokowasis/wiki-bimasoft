@@ -6,7 +6,7 @@ author: Wasis Haryo Sasoko
 
 ## Tombol Publish Berwarna Abu - Abu, Manage Account tidak bisa di klik
 
-Ini disebabkan karena versi office build version 2402. Versi office build version 2402 memiliki bug yang mendisable Blog Post, sehingga tidak bisa melakukan *Manage Account* dan *Publish*.
+Ini disebabkan karena versi office build version 2402 ke atas. Versi office build version 2402 ke atas masih memiliki bug yang mendisable Blog Post, sehingga tidak bisa melakukan *Manage Account* dan *Publish*.
 
 
 ![Disable Publish](/images/disablepublish.png)
@@ -14,7 +14,7 @@ Ini disebabkan karena versi office build version 2402. Versi office build versio
 ![Version 2402](/images/2402.png)
 
 ### Solusi
-Bisa melakukan downgrade ke versi di bawah 2402 atau melakukan update ke versi di atas 2402.
+Bisa melakukan downgrade ke versi di bawah 2402.
 
 ### Office 2019 dan 2016
 Install ulang Microsoft Office tanpa internet, dan Disable Updatenya.
