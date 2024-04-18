@@ -26,3 +26,12 @@ Install ulang Microsoft Office tanpa internet, dan Disable Updatenya.
 2. Extract
 3. Jalankan setup.exe (*wajib connect internet*)
 
+### Jika Masih Gagal
+
+Pilih salah satu 
+
+## Install Ulang 
+1. Install ulang Microsoft Officenya
+2. Matikan update Microsoft Office.
+
+## Install Microsoft Office Versi 2013 ke bawah. 
