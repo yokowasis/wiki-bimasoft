@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.766929461830">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.770691305282">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -21,20 +21,22 @@
     <meta property="og:url" content="https://docs.bimasoft.web.id/simulasi-mandiri/cbt-online/data-siswa/">
     <meta property="og:title" content="Data Siswa | Manual Bimasoft">
     <meta property="og:description" content="Data siswa bisa di akses melalui wp-admin > database test > siswa">
+    <meta property="og:image" content="https://docs.bimasoft.web.id/images/screenshot_server_pengawas.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://docs.bimasoft.web.id/simulasi-mandiri/cbt-online/data-siswa/">
     <meta property="twitter:title" content="Data Siswa | Manual Bimasoft">
     <meta property="twitter:description" content="Data siswa bisa di akses melalui wp-admin > database test > siswa">
+    <meta property="twitter:image" content="https://docs.bimasoft.web.id/images/screenshot_server_pengawas.png">
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../../resources/css/retype.css?v=3.5.0.766929461830" rel="stylesheet">
+    <link href="../../../resources/css/retype.css?v=3.5.0.770691305282" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../../resources/js/config.js?v=3.5.0.766929461830" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../../resources/js/config.js?v=3.5.0.770691305282" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../../resources/js/lunr.js?v=3.5.0.766929461830" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../../resources/js/lunr.js?v=3.5.0.770691305282" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -203,6 +205,19 @@
     <div class="relative w-full mb-6 overflow-hidden pt-9/16">
         <iframe class="w-full h-full border-0 absolute inset-0" src="../../../video/database-siswa.mp4" allowfullscreen></iframe>
     </div>
+</figure>
+</p>
+<doc-anchor-target id="data-siswa-pada-pengawas-kosong">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#data-siswa-pada-pengawas-kosong">#</doc-anchor-trigger>
+        <span>Data siswa pada pengawas kosong</span>
+    </h2>
+</doc-anchor-target>
+<p>Jika login sebagai pengawas, akan tetapi data siswa kosong, sedangkan sebagai admin muncul. Ini disebabkan karena kesalahan kolom server pada pengawas tidak sama dengan kolom server pada data siswa di excel.</p>
+<p>Silakan di rubah server pada pengawas, untuk disamakan dengan server pada siswa. Karena 1 pengawas hanya bisa mengawasi 1 server saja. Berbeda dengan admin yang bisa mengawasi semua server.</p>
+<p><figure class="content-center">
+    <img src="../../../images/screenshot_server_pengawas.png" alt="Server Pengawas">
+    <figcaption class="caption">Server Pengawas</figcaption>
 </figure>
 </p>
 
