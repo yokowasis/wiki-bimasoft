@@ -4,28 +4,17 @@ author: Wasis Haryo Sasoko
 ---
 # Tombol Publish Disabled
 
-## Tombol Publish Berwarna Abu - Abu, Manage Account tidak bisa di klik
+## Tombol Publish Berwarna Abu - Abu, Manage Account tidak bisa di klik, atau Hilang
 
-Sesuai dengan update terbaru [Microsoft Office](https://support.microsoft.com/en-us/office/help-with-blogging-in-word-3ad4ad8d-06a3-441d-99cd-c65e13a3433d). 
-
-Microsoft menghapus feature Publish pada beberapa versi Microsoft Office pada build version 2402 ke atas, sehingga tidak bisa melakukan *Manage Account* dan *Publish*. Untuk saat ini Microsoft Office yang memiliki feature Publish dan Manage Account adalah versi office Professional Plus (ProPlus) 
-
-![Disable Publish](/images/disablepublish.png)
-
-![Version 2402](/images/2402.png)
-
-## Solusi
-Install ulang Microsoft Office dan matikan update.
-
-## Link Download Microsoft Office
-Link download di bawah ini merupakan link download Microsoft Office ProPlus versi original dari Microsoft langsung, sehingga tidak perlu khawatir lisensi Original akan hilang. 
-
-- [Office 365](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/O365ProPlusRetail.img)
-- [Office 2021](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProPlus2021Retail.img)
-- [Office 2019](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProPlus2019Retail.img)
-- [Office 2016](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProPlusRetail.img)
-
-Catatan : Setelah melakukan install Office ProPlus, segera matikan update Microsoft Word melalui menu File > Account > Office Updates > Disable Updates.
+1. Download [Update](/downloads/update.zip)
+2. Extract file yang di download
+3. Klik kanan runasadmin.bat, run as administrator
+![Run as Admin](/images/runasadmin.jpg)
+4. Tunggu Beberapa Detik
+5. Update Microsoft Word
+![alt text](/images/updatenow.jpg)
+6. Matikan update
+![Matikan Update](/images/matikanupdate.png)
 
 ## Alternatif lain
 
