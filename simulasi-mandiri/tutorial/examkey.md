@@ -8,7 +8,9 @@ Examkey berfungsi untuk mencegah siswa membuka halaman ujian menggunakan browser
 
 contoh :
 
-URL Ujian : https://cbt.my.id/
+![contoh examkey](/images/Screenshot_10.png)
+
+URL Ujian : https://cbt.my.id/  
 Examkey : 123123
 
 maka untuk halaman ujian bisa terbuka, jika dan hanya jika url yg diinput ke dalam browser adalah [https://cbt.my.id/?examkey=123123](https://cbt.my.id/?examkey=123123).
