@@ -40,14 +40,6 @@ jobs:
         with:
           path: ./build
 
-  # Deployment job
-  deploy:
-    environment:
-      name: github-pages
-      url: https://docs.bimasoft.web.id
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
