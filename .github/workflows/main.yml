@@ -30,7 +30,7 @@ jobs:
           sudo dpkg -i libssl1.1_1.1.1f-1ubuntu2.23_amd64.deb          
 
       - name: Install retypeapp
-        run: npm install retypeapp
+        run: npm install retypeapp@latest
 
       - name: Build project
         run: npm run build
