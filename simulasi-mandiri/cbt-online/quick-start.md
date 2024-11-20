@@ -6,6 +6,10 @@ icon: note
 
 # Quick Start
 
+## Video Tutorial
+
+[!embed](https://www.youtube.com/watch?v=rd4PuQIcuTo)
+
 ## Pengaturan Test Awal
 1. Login ke halaman webadmin. Url admin, username dan password bisa di cek pada halaman invoice
 
