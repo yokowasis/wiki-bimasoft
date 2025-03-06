@@ -16,11 +16,8 @@ Copy URL
 
 Masukkan code berikut ke dalam soal
 
-```html
-[bimasoft_embed link=<audio controls>
-  <source src="TARUH URL YANG DI COPY KE SINI" type="audio/mpeg" />
-  Browser Tidak Di support</audio
->]
+```
+[bimasoft_embed link=<audio controls><source src="TARUH URL YANG DI COPY KE SINI" type="audio/mpeg" />Browser Tidak Di support</audio>]
 ```
 
 Ganti `TARUH URL YANG DI COPY KE SINI` dengan URL yang sudah di copy tadi. Jangan mengganti yang lain. Microsoft word terkadang mengganti tanda kutip yang semula " menjadi “ dan ”. Jadi pastikan tanda kutip yang digunakan adalah tanda kutip yang benar (").
