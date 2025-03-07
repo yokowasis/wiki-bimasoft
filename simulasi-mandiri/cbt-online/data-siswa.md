@@ -6,9 +6,10 @@ icon: note
 
 # Data Siswa
 
-Data siswa bisa di akses melalui wp-admin > database test > siswa
+Data siswa bisa di akses melalui webadmin > database test > siswa
 
-[!embed](/video/database-siswa.mp4)
+![datasiswa](../../images/data-siswa/image.png)
+
 
 ## Data siswa pada pengawas kosong
 
