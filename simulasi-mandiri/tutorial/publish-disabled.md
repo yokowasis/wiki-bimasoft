@@ -21,8 +21,9 @@ author: Wasis Haryo Sasoko
 
 ### Install ulang Microsoft Office versi ProPlus
 
-| Office | Link                                                                                                              |
-| ------ | ----------------------------------------------------------------------------------------------------------------- |
-| 2021   | [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2021Retail.img) |
-| 2019   | [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2019Retail.img) |
-| 2016   | [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2016Retail.img) |
+| Office     | Link                                                                                                              |
+| ---------- | ----------------------------------------------------------------------------------------------------------------- |
+| Office 365 | [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/O365ProPlusRetail.img) |
+| 2021       | [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2021Retail.img) |
+| 2019       | [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2019Retail.img) |
+| 2016       | [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlusRetail.img)     |
