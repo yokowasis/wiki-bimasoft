@@ -39,17 +39,15 @@ untuk password tidak terlihat, dan ini normal. Tekan Enter setelah mengetik pass
 
 2. Tulis perintah berikut di terminal
 
-![](../../assets/2025-05-30-12-09-27.png)
-
 ```bash
 sudo nano /etc/netplan/00-installer-config.yaml
 ```
 
+![](../../assets/2025-05-30-12-09-27.png)
+
 apabila diminta password, masukkan password `123123`.
 
 3. Ganti IP Address sesuai dengan yang diinginkan, contoh:
-
-![](../../assets/2025-05-30-12-12-54.png)
 
 ```yaml
 network:
@@ -65,7 +63,24 @@ network:
   version: 2
 ```
 
+![](../../assets/2025-05-30-12-12-54.png)
+
+Untuk subnet mask sesuaikan dengan tabel berikut:
+
+| Subnet Mask   | Notasi CIDR | Maximal Jumlah Client |
+| ------------- | ----------- | --------------------- |
+| 255.255.255.0 | /24         | 256                   |
+| 255.255.252.0 | /22         | 1024                  |
+| 255.255.248.0 | /21         | 2048                  |
+| 255.255.0.0   | /16         | 65536                 |
+
 Keluar menggunakan `CTRL + X`, lalu tekan `Y` untuk menyimpan perubahan, dan tekan `Enter`.
+
+---
+
+> Device client harus mengikuti subnet mask yang sama dengan VHD. Misalnya, jika subnet mask VHD nya adalah `/22`, maka subnetmask client juga harus `/22` atau `255.255.252.0`.
+
+---
 
 4. Terapkan perubahan dengan perintah berikut:
 
