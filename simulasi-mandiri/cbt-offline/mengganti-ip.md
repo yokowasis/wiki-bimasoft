@@ -47,7 +47,9 @@ sudo nano /etc/netplan/00-installer-config.yaml
 
 apabila diminta password, masukkan password `123123`.
 
-3. Ganti IP Address sesuai dengan yang diinginkan, contoh:
+Perintah ini akan membuka file konfigurasi jaringan.
+
+3. Silakan rubah isi file yang sudah ada, dan ganti IP Address sesuai dengan yang diinginkan, contoh:
 
 ```yaml
 network:
