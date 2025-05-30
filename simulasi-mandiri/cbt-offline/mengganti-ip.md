@@ -76,11 +76,7 @@ Untuk subnet mask sesuaikan dengan tabel berikut:
 
 Keluar menggunakan `CTRL + X`, lalu tekan `Y` untuk menyimpan perubahan, dan tekan `Enter`.
 
----
-
 > Device client harus mengikuti subnet mask yang sama dengan VHD. Misalnya, jika subnet mask VHD nya adalah `/22`, maka subnetmask client juga harus `/22` atau `255.255.252.0`.
-
----
 
 4. Terapkan perubahan dengan perintah berikut:
 
