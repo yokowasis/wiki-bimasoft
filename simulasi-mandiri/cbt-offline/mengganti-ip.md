@@ -7,16 +7,68 @@ icon: note
 # Mengganti IP
 
 ## Melalui wp-admin
+
 1. Login ke wp-admin
 2. Masuk ke menu wp-admin > settings > general
 3. Ganti Wordpress (URL) dan Site Address (URL)
-![bimasoft_wp-admin](../../images/Screenshot_1.jpg)
+   ![bimasoft_wp-admin](../../images/Screenshot_1.jpg)
 
 ## Melalui phpmyadmin
+
 1. Masuk ke phpmyadmin
-    - Auto Installer : [http://localhost:8888/phpmyadmin](http://localhost:8888/phpmyadmin)
-    - VHD : [http://192.168.0.201/phpMyAdmin](http://192.168.0.201/phpMyAdmin) (Huruf Besar Kecil Pengaruh)
+   - Auto Installer : [http://localhost:8888/phpmyadmin](http://localhost:8888/phpmyadmin)
+   - VHD : [http://192.168.0.201/phpMyAdmin](http://192.168.0.201/phpMyAdmin) (Huruf Besar Kecil Pengaruh)
 2. Pilih Database UNBK (Sebelah Kiri)
 3. Pilih wp_options
-4. Ganti *siteurl* dan *home*
-![](../../images/Screenshot_2.jpg)
+4. Ganti _siteurl_ dan _home_
+   ![](../../images/Screenshot_2.jpg)
+
+## Mengganti IP VHD
+
+1. Masuk ke Dalam VHD
+
+- Buka Virtualbox
+
+![](../../assets/2025-05-30-12-07-45.png)
+
+- Masukkan username: `bimasoft`, password : `123123`
+
+![](../../assets/2025-05-30-12-08-16.png)
+
+untuk password tidak terlihat, dan ini normal. Tekan Enter setelah mengetik password.
+
+2. Tulis perintah berikut di terminal
+
+![](../../assets/2025-05-30-12-09-27.png)
+
+```bash
+sudo nano /etc/netplan/00-installer-config.yaml
+```
+
+apabila diminta password, masukkan password `123123`.
+
+3. Ganti IP Address sesuai dengan yang diinginkan, contoh:
+
+![](../../assets/2025-05-30-12-12-54.png)
+
+```yaml
+network:
+  ethernets:
+    enp0s3:
+      addresses:
+        - 192.168.1.201/16
+      nameservers:
+        addresses: []
+        search: []
+    enp0s8:
+      dhcp4: true
+  version: 2
+```
+
+Keluar menggunakan `CTRL + X`, lalu tekan `Y` untuk menyimpan perubahan, dan tekan `Enter`.
+
+4. Terapkan perubahan dengan perintah berikut:
+
+```bash
+sudo netplan apply
+```
