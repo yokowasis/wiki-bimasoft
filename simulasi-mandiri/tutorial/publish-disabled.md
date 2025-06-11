@@ -13,7 +13,7 @@ author: Wasis Haryo Sasoko
    ![Run as Admin](/images/runasadmin.jpg)
 4. Tunggu Beberapa Detik
 5. Update Microsoft Word
-   ![alt text](/images/updatenow.jpg)
+   ![alt text](../../images/publish-disabled/image.png)
 6. Matikan update
    ![Matikan Update](/images/matikanupdate.png)
 
