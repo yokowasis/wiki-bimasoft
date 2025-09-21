@@ -7,6 +7,8 @@ author: Wasis Haryo Sasoko
 
 ## Tombol Publish Berwarna Abu - Abu, Manage Account tidak bisa di klik, atau Hilang
 
+[!embed](https://youtube.com/watch?v=dfUyTILcgOE)
+
 1. Download [Update](/downloads/update.zip)
 2. Extract file yang di download
 3. Klik kanan runasadmin.bat, run as administrator
