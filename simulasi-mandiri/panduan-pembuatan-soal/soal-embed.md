@@ -47,15 +47,21 @@ Berikut merupakan contoh penulisan menggunakan `embedcontent`
 
 ### SoundCloud
 
-`[embedcontent]<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1242868615&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>[/embedcontent]`
+```
+[embedcontent]<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1242868615&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>[/embedcontent]
+```
 
 ### Youtube
 
-`[embedcontent]<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=rP8sPiSxp4UtaKUS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[/embedcontent]`
+```
+[embedcontent]<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=rP8sPiSxp4UtaKUS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[/embedcontent]
+```
 
 ### Google Drive
 
-`[embedcontent]<iframe src="https://drive.google.com/file/d/197kJKmVYZ8YHE6OmkoRYuzulVWswq_6J/preview" width="640" height="480" allow="autoplay"></iframe>[/embedcontent]`
+```
+[embedcontent]<iframe src="https://drive.google.com/file/d/197kJKmVYZ8YHE6OmkoRYuzulVWswq_6J/preview" width="640" height="480" allow="autoplay"></iframe>[/embedcontent]
+```
 
 Berikut adalah video untuk mengembed dari Google Drive, Youtube dan Soundcloud
 
