@@ -4,7 +4,7 @@ icon: note
 
 **1. Clear Cache / Data Aplikasi Android**
 
-[!embed](https://www.youtube.com/embed/gT6G_kaeKUs)
+[!embed](https://www.youtube.com/embed/suk779QkopE)
 
 **2. Clear Cache / Data di Browser (misal: Google Chrome)**
 
