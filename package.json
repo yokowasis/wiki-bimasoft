@@ -12,7 +12,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "retypeapp": "^1.11.2"
+      "retypeapp": "4.6.0"
     }
   }
   
