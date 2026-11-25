@@ -8,7 +8,7 @@ Useragent digunakan apabila kita ingin mencegah agar siswa tidak bisa mengakses 
 
 Pengaturan useragent bisa diatur melalui webadmin > pengaturan > security > useragent. Bisa kita isi dengan useragent yang kita inginkan, contoh : _123_.
 
-![useragent](../../images/useragent/image.png)
+![useragent](image.png)
 
 Adapun untuk pengaturan useragent pada examclient, Setiap examclient memiliki pengaturan useragent yang berbeda-beda, berikut adalah beberapa contoh pengaturan useragent pada examclient:
 
@@ -28,4 +28,4 @@ Untuk Safe Exambrowser, useragent bisa diatur melalui `Suffix to be added to any
 
 ## Multiple user agent
 
-Ada kalanya kita ingin menggunakan beberapa jenis user agent, misalnya kita ingin menggunakan useragent _123_ untuk HP dan useragent _456_ untuk PC. Untuk itu kita bisa mengisi _123:456_ pada kotak input useragent yang ada pada `webadmin > pengaturan > security > useragent`, sehingga baik HP maupun PC bisa mengakses ujian melalui examclient yang sudah kita approve.
+Ada kalanya kita ingin menggunakan beberapa jenis user agent, misalnya kita ingin menggunakan useragent _123_ untuk HP dan useragent _456_ untuk PC. Untuk itu kita bisa mengisi _123_ pada baris pertama dan _456_ pada baris kedua pada kotak input useragent yang ada pada `webadmin > pengaturan > security > useragent`, sehingga baik HP maupun PC bisa mengakses ujian melalui examclient yang sudah kita approve.
