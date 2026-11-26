@@ -21,6 +21,6 @@ Versi Tema Aplikasi dan Versi Template Excel minimal Versi #12
 Ketika melakukan update / install tema, belum melakukan reset database. Reset database dilakukan dengan cara (_Kerjakan Sesuai Urutan_): WP-Admin -> Pengaturan Test -> Reset Database = Tidak -> Save -> Reset Database = Ya -> Save -> Reset Database = Tidak -> Save.
 
 **5. Excel Key Salah.**  
-Pastikan Key di Microsoft Excel (yg berwarna coklat) sama dengan excel key di pengaturan test.
+Pastikan Key di Microsoft Excel (yg berwarna coklat) sama dengan excel key di webadmin > pengaturan > security. Excel key wajib diisi, ini digunakan agar orang lain yang tidak memiliki excel key tidak bisa mengakses server.
 
 ![excelkey](image.png)
